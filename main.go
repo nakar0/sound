@@ -1,6 +1,6 @@
 package main
 
-import "sounds/cmd"
+import "sound/cmd"
 
 func main() {
 	cmd.Execute()

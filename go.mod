@@ -1,4 +1,4 @@
-module sounds
+module sound
 
 go 1.16
 
